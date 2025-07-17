@@ -19,7 +19,7 @@
 # How this project works
   pip install -r requirements.txt
   python app.py
-
+  
 - Then visit http://localhost:5000 for the output
 
 # Model performance
